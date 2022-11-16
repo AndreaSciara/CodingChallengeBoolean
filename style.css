@@ -1,0 +1,74 @@
+
+
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.conteiner{
+  width: 1200px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px 10px 10px 10px;
+  
+}
+
+.logo{
+  width: 200px;
+  display:block;
+  margin:30px auto;
+  text-align:center;
+}
+
+.scritta-logo{
+  color: rgb(0, 230, 0);
+  text-align: center;
+}
+
+.buttons{
+  background-color: rgb(0, 230, 0);
+  margin: 40px;
+  line-height:50px;
+  text-align: center;
+
+}
+
+
+main{
+  display: inline-block;
+  text-align: left;
+  margin: 40px;
+  color: white;
+
+}
+.barra1{
+  background: yellow;
+  height: 20px;
+  width:140%;
+  border-radius: 10px 10px 10px 10px;
+  float:left;
+  border: yellow;
+
+}
+
+.barra2{
+  background: green;
+  height: 20px;
+  width:200%;
+  border-radius: 10px 10px 10px 10px;
+  float:left;
+  border: green;
+
+}
+
+.barra3{
+  background: red;
+  height: 20px;
+  width:50%;
+  border-radius: 10px 10px 10px 10px;
+  float:left;
+  border: red;
+
+}
